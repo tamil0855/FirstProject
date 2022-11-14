@@ -1,6 +1,8 @@
 function print(){
 
-    return console.log(6+9);
+
+   return console.log(5*9);
+
 
 }
 
