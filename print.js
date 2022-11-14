@@ -1,6 +1,6 @@
 function print(){
 
-    return console.log("hello world");
+    return console.log(5+9);
 
 }
 
