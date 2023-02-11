@@ -3,4 +3,4 @@ let person={
   age:24
 }
 
-console.log(person.name);
+console.lg(person.name);
